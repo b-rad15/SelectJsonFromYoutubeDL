@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SelectJsonFromYoutubeDL": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\SteamLibrary\\steamapps\\common\\Beat Saber/Youtube-dl/youtube-dl.exe\" \"ytsearch:Sorry Sorry - Super Junior\""
+    }
+  }
+}

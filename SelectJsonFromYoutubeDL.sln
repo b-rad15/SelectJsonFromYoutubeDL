@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectJsonFromYoutubeDL", "SelectJsonFromYoutubeDL.csproj", "{87C5546C-07E2-442D-95B2-228E837BDA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C5546C-07E2-442D-95B2-228E837BDA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C5546C-07E2-442D-95B2-228E837BDA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C5546C-07E2-442D-95B2-228E837BDA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C5546C-07E2-442D-95B2-228E837BDA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F73553-1086-43E9-B052-2B7D3993FE95}
+	EndGlobalSection
+EndGlobal
