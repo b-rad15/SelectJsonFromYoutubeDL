@@ -26,8 +26,9 @@ namespace SelectJsonFromYoutubeDL
                 EnableRaisingEvents = true,
                 //I think these are added only after Process Started
                 //PriorityClass = ProcessPriorityClass.RealTime,
-                PriorityBoostEnabled = true
             };
+
+            // searchProcess.PriorityBoostEnabled = true;
 
             Console.WriteLine($"yt command: {searchProcess.StartInfo.FileName} {searchProcess.StartInfo.Arguments}");
             
